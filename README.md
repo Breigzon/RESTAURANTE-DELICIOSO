@@ -114,7 +114,7 @@ incluidos en `data/` (todos en PDF, listos para la ingesta):
 
 La aplicación está desplegada públicamente en Streamlit Community Cloud:
 
-**🔗 URL: `<pega aquí tu URL pública>`**
+**🔗 URL: `https://restaurante-delicioso-nvvvgqwyrjauo7wbnsgpdv.streamlit.app/`**
 
 *(agrega también una captura de pantalla de la app corriendo en producción)*
 
@@ -145,5 +145,5 @@ alura-agente/
 
 ## 👤 Autor
 
-Proyecto desarrollado por Breigzon como Challenge Final del programa
+Proyecto desarrollado por Breigzon Turco como Challenge Final del programa
 AlurAgente.
