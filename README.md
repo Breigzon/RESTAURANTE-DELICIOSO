@@ -116,7 +116,8 @@ La aplicación está desplegada públicamente en Streamlit Community Cloud:
 
 **🔗 URL: `https://restaurante-delicioso-nvvvgqwyrjauo7wbnsgpdv.streamlit.app/`**
 
-*(agrega también una captura de pantalla de la app corriendo en producción)*
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/623d9778-6fa3-4cae-9bf7-0d57cb05acf0" />
+
 
 ### Pasos para replicar el deploy
 1. Sube este repositorio a GitHub (con `chroma_db/` ya generado y commiteado,
