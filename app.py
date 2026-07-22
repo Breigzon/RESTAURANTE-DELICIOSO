@@ -15,8 +15,8 @@ from agent import build_agent, CHROMA_DIR  # noqa: E402
 from ingest import ingest_pdf  # noqa: E402
 
 st.set_page_config(page_title="Alura Agente", page_icon="🤖")
-st.title("🤖 RESTAURANTE DELICIOSO")
-st.caption("Bienvenido al restaurante DELICIOSO 🍽️. Pregunta todo lo que deseas saber sobre nuestro menú, recetas y servicios.")
+st.title("🤖 Agente IA- RESTAURANTE DELICIOSO")
+st.caption("Bienvenido al restaurante DELICIOSO🍽️ \n\n📍Ubicación: Av. Universitaria 1994, San Miguel. \n📋Menú y Carta del día \n🥇Restaurante 5 estrellas ⭐⭐⭐⭐⭐  \nPregunta todo lo que deseas saber sobre nuestro menú, ofertas y servicios.")
 
 # En Streamlit Cloud los "secrets" no siempre llegan como variables de
 # entorno automáticamente, así que los copiamos si hace falta.
