@@ -78,7 +78,7 @@ incluidos en `data/` (todos en PDF, listos para la ingesta):
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DE_TU_REPO>
+   git clone https://github.com/Breigzon/RESTAURANTE-DELICIOSO.git
    cd alura-agente
    ```
 
