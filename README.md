@@ -62,10 +62,6 @@ incluidos en `data/` (todos en PDF, listos para la ingesta):
 
 ## 💬 Ejemplos de preguntas y respuestas
 
-> _(Ejecuta el agente y reemplaza esto con capturas o texto real de sus
-> respuestas antes de la entrega — el contenido debería ser muy similar,
-> ya que el agente responde solo con lo que dicen los documentos)_
-
 | Pregunta | Respuesta esperada del agente |
 |---|---|
 | "¿Cuál es el horario de atención de Delicioso?" | Todos los días de 12:00 p. m. a 10:00 p. m., para local y delivery. |
